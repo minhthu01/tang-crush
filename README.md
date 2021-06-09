@@ -17,10 +17,10 @@ const CONFIG = {
     btnNo: 'không làm chó',
     question:'Tại sao anh không đẹp trai không giàu như người ta mà em lại yêu anh ?',
     btnReply: 'Gửi cho em <3',
-    reply: 'Vì anh là điều tuyệt vời nhất với em rồi đừng so sánh anh với người khác ',
+    reply: 'Vì anh là điều tuyệt vời nhất với em rồi đừng so sánh anh với người khác.',
     mess: 'Em không có văn nhá 🥰. Anh chả biết gì cả -.- ',
     messDesc: 'Anh thật là ngu ngoc.',
-    btnAccept: ' em quá hay iu e hahha',
+    btnAccept: ' em quá hay iu e hahha.',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
