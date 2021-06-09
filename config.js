@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Tại sao anh không đẹp trai không giàu như người ta mà em lại chọn anh <3',
     btnReply: 'Gửi cho em <3',
     reply: 'Vì anh là điều tuyệt vời nhất với em rồi đừng so sánh anh với bất kì ai',
-    mess: 'Em không văn nhé -.- Anh thật là ngu ngoc zl',
+    mess: 'Em không văn nhé. Anh thật là ngu ngoc zl -.-',
     messDesc: ' Tóm lại là Đanh đá ít thôi đừng để tôi đấm cho không trượt phát nào :)).',
     btnAccept: 'Em hay quá :D <33',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
