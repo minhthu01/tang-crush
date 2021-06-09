@@ -8,22 +8,19 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Quang Dự à!',
+    introDesc: `Bắt nạt em ít thôi đừng để em nóng hơi mệt`,
+    btnIntro: 'Em thông minh quá',
+    title: ' Anh có biết sự giống nhau giữa anh và Hà Nội là gì không ?😙',
+    desc: ' Đó là đều được em yêu suốt 1000 năm',
+    btnYes: 'Iu em vô bờ bến <33',
+    btnNo: 'không làm chó',
+    question:'Tại sao anh không đẹp trai không giàu như người ta mà em lại yêu anh ?',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Vì anh là điều tuyệt vời nhất với em rồi đừng so sánh anh với người khác ',
+    mess: 'Em không có văn nhá 🥰. Anh chả biết gì cả -.- ',
+    messDesc: 'Anh thật là ngu ngoc.',
+    btnAccept: ' em quá hay iu e hahha',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
